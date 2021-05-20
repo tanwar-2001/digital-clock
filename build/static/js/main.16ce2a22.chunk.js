@@ -1,0 +1,2 @@
+(this["webpackJsonpclock-app"]=this["webpackJsonpclock-app"]||[]).push([[0],{11:function(e,t,n){"use strict";n.r(t);var c=n(0),a=n(3),o=n.n(a),r=n(4),i=(n(9),n(1)),s=(new Date).toLocaleTimeString();var p=function(){var e=Object(c.useState)(s),t=Object(r.a)(e,2),n=t[0],a=t[1];return setInterval((function(){var e=(new Date).toLocaleTimeString();a(e)}),1e3),Object(i.jsx)("h1",{children:n})};o.a.render(Object(i.jsx)(p,{}),document.getElementById("root"))},9:function(e,t,n){}},[[11,1,2]]]);
+//# sourceMappingURL=main.16ce2a22.chunk.js.map
